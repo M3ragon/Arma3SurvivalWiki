@@ -1,4 +1,7 @@
-# Welcome to MkDocs
+# Welcome to MkDocs of A3S-Wiki
+
+Progress of this plain site  
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10)
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
