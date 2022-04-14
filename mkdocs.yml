@@ -2,6 +2,8 @@ site_name: Arma 3 Survival Wiki
 site_url: https://m3ragon.github.io/Arma3SurvivalWiki/
 nav:
     - Home: index.md
+  - Progress: progress.md
+  - About: about.md
 
 theme:
   name: material
