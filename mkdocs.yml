@@ -1,4 +1,4 @@
-site_name: M3ragon`s Küche
+site_name: Arma 3 Survival Wiki
 site_url: https://m3ragon.github.io/Arma3SurvivalWiki/
 nav:
     - Home: index.md
@@ -83,7 +83,7 @@ markdown_extensions:
   - footnotes
 
 copyright: Copyright &copy; 2021 - 2022 M3ragon
-repo_name: M3ragon/Kitchen
+repo_name: A3S/Wiki
 repo_url: https://github.com/M3ragon/Arma3SurvivalWiki
 
 extra_javascript:
