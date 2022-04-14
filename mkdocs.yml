@@ -1,7 +1,9 @@
 site_name: Arma 3 Survival Wiki
 site_url: https://m3ragon.github.io/Arma3SurvivalWiki/
 nav:
-    - Home: index.md
+  - Home: index.md
+  - Progress: progress.md
+  - About: about.md
 
 theme:
   name: material
@@ -10,8 +12,8 @@ theme:
     - content.tabs.link
     - navigation.tabs
     - navigation.top
-  logo: assets/img/logo.svg
-  favicon: assets/img/logo.svg
+  logo: assets/img/logo.png
+  favicon: assets/img/logo.png
   icon:
     repo: fontawesome/brands/git-alt 
     admonition:
@@ -80,6 +82,8 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
+  - pymdownx.progressbar
+  - pymdownx.magiclink
   - footnotes
 
 copyright: Copyright &copy; 2021 - 2022 M3ragon
@@ -87,13 +91,15 @@ repo_name: A3S/Wiki
 repo_url: https://github.com/M3ragon/Arma3SurvivalWiki
 
 extra_javascript:
-  - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
   - assets/javascripts/tablesort.js
   - assets/javascripts/consent.js
   - assets/javascripts/lazyload.js
+#  - assets/javascripts/image-carousel.js 
 
 extra_css:
   - assets/stylesheets/extra.css
+  - assets/stylesheets/app-theme.css
 
 extra:
   homepage: https://m3ragon.github.io/Arma3SurvivalWiki/
