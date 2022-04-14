@@ -80,6 +80,8 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
+  - pymdownx.progressbar
+  - pymdownx.magiclink
   - footnotes
 
 copyright: Copyright &copy; 2021 - 2022 M3ragon
