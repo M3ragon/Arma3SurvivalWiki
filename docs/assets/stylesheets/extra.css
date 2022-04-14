@@ -30,5 +30,7 @@
 [data-md-color-scheme="default"] {
   --md-primary-fg-color: #4b6f9f;
   --md-accent-fg-color:  #5693e2;
+  --md-footer-bg-color: #1f2124;
+  --md-footer-bg-color--light: #1B1B21;
+  --md-footer-bg-color--dark: #1B1B21;
 }
-
