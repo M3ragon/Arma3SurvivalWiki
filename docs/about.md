@@ -27,7 +27,6 @@ hide:
 
 ## Impressum
 
-
 ## Privacy Policy
 
 Last updated: April 16, 2022
