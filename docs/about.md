@@ -1,10 +1,12 @@
 ---
 hide:
   - navigation
+  - toc
 ---
 
 # Team
 
+## Development
 | Name             | Role                    |
 |------------------|-------------------------|
 | Hungry           | Founder                 |
@@ -13,16 +15,20 @@ hide:
 | Tycho            | Web Development         |
 | Razer            | Scripting               |
 | Cybeija          | Graphic Arist           |
+
+# Moderators
+| Name             | Role                    |
+|------------------|-------------------------|
 | Quazh            | Community Manager       |
 | znarf221         | Administrator           |
 | Smok3            | Senior Moderator        |
 | Sensei Freckle   | Senior Moderator        |
 | Friendly         | Moderator               |
 | Kingston         | Moderator               |
+
+# Wiki Contributors
+| Name             | Role                    |
+|------------------|-------------------------|
 | M3ragon          | Lead Wiki Editor        |
 | Overflow         | Senior Wiki Editor      |
 | zntnm            | Wiki Editor             |
-
-## DSGvO
-
-## Impressum
