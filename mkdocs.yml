@@ -5,6 +5,7 @@ nav:
   - Wiki:
     - wiki/index.md
     - Basebuilding and Raiding: wiki/base/BuildingAndRaiding.md
+  - FAQ: faq.md
   - Progress: progress.md
   - About: about.md
 
