@@ -6,7 +6,7 @@ hide:
 
 # Welcome to MkDocs of A3S-Wiki
 
-[:material-discord: Discord](https://discord.gg/hvk9D6xyBJ){ .md-button }
+[:simple-discord: Discord](https://discord.gg/hvk9D6xyBJ){ .md-button }
 [:material-home: Homepage](https://arma3survival.com/){ .md-button }
 [:material-steam: Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1278609853){ .md-button }
 
