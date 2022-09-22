@@ -16,24 +16,26 @@ and you joint on the server.
 
 ??? note "Modlist"
 
-    | Mod                                    | Steamlink                                                        |
-    |----------------------------------------|------------------------------------------------------------------|
-    | 3CB Factions                           | http://steamcommunity.com/sharedfiles/filedetails/?id=1673456286 |
-    | A3S Chernarus                          | http://steamcommunity.com/sharedfiles/filedetails/?id=1280331888 |
-    | Arma 3 Survival                        | http://steamcommunity.com/sharedfiles/filedetails/?id=1278609853 |
-    | BG21 Slaughter Assets                  | http://steamcommunity.com/sharedfiles/filedetails/?id=448333775  |
-    | CBA_A3                                 | http://steamcommunity.com/sharedfiles/filedetails/?id=450814997  |
-    | Friths Ruin                            | http://steamcommunity.com/sharedfiles/filedetails/?id=766707192  |
-    | JSRS SOUNDMOD                          | http://steamcommunity.com/sharedfiles/filedetails/?id=861133494  |
-    | Metis Nature                           | http://steamcommunity.com/sharedfiles/filedetails/?id=1951690856 |
-    | NIArms All in One                      | http://steamcommunity.com/sharedfiles/filedetails/?id=1208517358 |
-    | PLP Containers                         | http://steamcommunity.com/sharedfiles/filedetails/?id=504690333  |
-    | PLP Urban Packs: Barriers and Fences   | http://steamcommunity.com/sharedfiles/filedetails/?id=701300272  |
-    | Ravaged and Frithified Gear            | http://steamcommunity.com/sharedfiles/filedetails/?id=1531006055 |
-    | RHSAFRF                                | http://steamcommunity.com/sharedfiles/filedetails/?id=843425103  |
-    | RHSGREF                                | http://steamcommunity.com/sharedfiles/filedetails/?id=843593391  |
-    | RHSUSAF                                | http://steamcommunity.com/sharedfiles/filedetails/?id=843577117  |
-    | СпР : Специальные подразделения России | http://steamcommunity.com/sharedfiles/filedetails/?id=2106062054 |
+    | Mod                                  | Steamlink                                                         |
+    |--------------------------------------|-------------------------------------------------------------------|
+    | RHSAFRF                              | http://steamcommunity.com/sharedfiles/filedetails/?id=843425103   |
+    | RHSUSAF                              | http://steamcommunity.com/sharedfiles/filedetails/?id=843577117   |
+    | RHSGREF                              | http://steamcommunity.com/sharedfiles/filedetails/?id=843593391   |
+    | CBA_A3                               | http://steamcommunity.com/sharedfiles/filedetails/?id=450814997   |
+    | RHSSAF                               | https://steamcommunity.com/sharedfiles/filedetails/?id=843632231  |
+    | 3CB Factions                         | http://steamcommunity.com/sharedfiles/filedetails/?id=1673456286  |
+    | JSRS SOUNDMOD                        | http://steamcommunity.com/sharedfiles/filedetails/?id=861133494   |
+    | PLP Containers                       | http://steamcommunity.com/sharedfiles/filedetails/?id=504690333   |
+    | PLP Urban Packs: Barriers and Fences | http://steamcommunity.com/sharedfiles/filedetails/?id=701300272   |
+    | Ravaged and Frithified Gear          | http://steamcommunity.com/sharedfiles/filedetails/?id=1531006055  |
+    | NIArms All in One                    | http://steamcommunity.com/sharedfiles/filedetails/?id=1208517358  |
+    | Metis Nature                         | http://steamcommunity.com/sharedfiles/filedetails/?id=1951690856  |
+    | Friths Ruin                          | http://steamcommunity.com/sharedfiles/filedetails/?id=766707192   |
+    | BG21 Slaughter Assets                | http://steamcommunity.com/sharedfiles/filedetails/?id=448333775   |
+    | Gorkas 'n' Gear                      | https://steamcommunity.com/sharedfiles/filedetails/?id=2752324758 |
+    | Arma 3 Survival                      | http://steamcommunity.com/sharedfiles/filedetails/?id=1278609853  |
+    | A3S Chernarus                        | http://steamcommunity.com/sharedfiles/filedetails/?id=1280331888  |
+
 
 ## How do I build a base?
 
