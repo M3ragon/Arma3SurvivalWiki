@@ -10,11 +10,11 @@ Here you can see the Progress of this site.
 Progress of this plain site  
 
 
-- [ ] Website [=15% "15%"]
+- [ ] Website [=25% "25%"]
 - [ ] Content [=0% "0%"]
-    - [ ] Basebuilding 
-        - [ ] Bulding
-        - [ ] Raiding
+    - [ ] Territory 
+        - [ ] Base Bulding
+        - [ ] Base Raiding
         - [ ] Blueprints
         - [ ] Workbench
     - [ ] Equipment
@@ -32,5 +32,15 @@ Progress of this plain site
         - [ ] Aircraft
         - [ ] Boats
         - [ ] Vehicle Maintenance
+    - [ ] Trader
+        - [ ] Trader 1
+        - [ ] Trader 2
+        - [ ] Trader 3
+        - [ ] Trader 4
     - [ ] Events
+        - [ ] Car crashes
+        - [ ] Heli crashes
+    - [ ] Hideout
+    - [ ] Raid System
+ 
   
