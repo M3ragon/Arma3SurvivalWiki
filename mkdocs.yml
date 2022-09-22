@@ -1,5 +1,5 @@
 site_name: Arma 3 Survival Wiki
-site_url: https://m3ragon.github.io/Arma3SurvivalWiki/
+site_url: wiki.meragon.xyz
 nav:
   - Home: index.md
   - Wiki:
@@ -106,7 +106,7 @@ extra_css:
   - assets/stylesheets/app-theme.css
 
 extra:
-  homepage: https://m3ragon.github.io/Arma3SurvivalWiki/
+  homepage: https://wiki.meragon.xyz/
   consent:
     title: Cookie consent
     description: 
