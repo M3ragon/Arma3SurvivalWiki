@@ -1,5 +1,5 @@
 site_name: Arma 3 Survival Wiki
-site_url: wiki.meragon.xyz
+site_url: https://wiki.meragon.xyz/
 nav:
   - Home: index.md
   - Wiki:
