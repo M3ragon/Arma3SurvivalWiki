@@ -16,4 +16,3 @@ jobs:
       - run: pip install mkdocs-minify-plugin
       - run: mkdocs gh-deploy --force
       - run: dig wiki.meragon.xyz +nostats +nocomments +nocmd
-      - run: echo 'wiki.meragon.xyz' > ./build/CNAME && gh-pages -d build
