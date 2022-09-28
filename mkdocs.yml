@@ -5,9 +5,14 @@ nav:
   - Wiki:
     - wiki/index.md
     - Basebuilding and Raiding: wiki/base/BuildingAndRaiding.md
+    - Traderzone:
+      - wiki/traderzone/index.md
+      - Hideout: wiki/traderzone/hideout.md
   - FAQ: faq.md
   - Progress: progress.md
-  - About: about.md
+  - Team: about.md
+  - Imprint: imprint.md
+  - Privacy Policy: privacy_policy.md
 
 theme:
   name: material
