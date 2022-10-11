@@ -37,8 +37,10 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ## Baseraiding
 
-| Crowbar  | Break Gate locks (LvL1, 2 and 3)                  |
+
+| Item     | use                                               |
 |----------|---------------------------------------------------|
+| Crowbar  | Break Gate locks (LvL1, 2 and 3)                  |
 | Handsaw  | Can saw through walls (LvL1 and 2)                |
 | Bomb     | Can open any gate 100%. (sometimes has misfiring) |
 | Lockpick | To lock gates again                               |
