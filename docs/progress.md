@@ -16,7 +16,7 @@ Progress of this plain site
         - [ ] Base Bulding
         - [ ] Base Raiding
         - [ ] Blueprints
-        - [ ] Workbench
+        - [x] Workbench
     - [ ] Equipment
         - [ ] Weapons
         - [ ] Vests
