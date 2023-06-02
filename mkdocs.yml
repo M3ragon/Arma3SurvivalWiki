@@ -95,7 +95,7 @@ markdown_extensions:
   - pymdownx.magiclink
   - footnotes
 
-copyright: Copyright &copy; 2021 - 2022 M3ragon
+copyright: Copyright &copy; 2021 - 2023 M3ragon
 repo_name: A3S/Wiki
 repo_url: https://github.com/M3ragon/Arma3SurvivalWiki
 
